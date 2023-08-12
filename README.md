@@ -3,7 +3,9 @@
 Meu nome é João Alencar.
 
 -Estudo na Alura
+
 -Estou aprendendo a linguagem de javascript
+
 -Utilizo esse espaço para organização e divulgação 
 
 ## Se você quiser pode entrar em contato comigo 
